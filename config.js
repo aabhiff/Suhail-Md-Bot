@@ -64,14 +64,14 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "V.1.2.8",
-  caption : process.env.CAPTION || "©sᴜʜᴀɪʟ²²¹-ᴍᴅ" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
+  caption : process.env.CAPTION || "©ABDULLAH" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ AABHI 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
  
-  author : process.env.PACK_AUTHER|| "Suhail-MD",
+  author : process.env.PACK_AUTHER|| "ABDALLAH",
   packname: process.env.PACK_NAME || "♥️",
-  botname : process.env.BOT_NAME  || "sᴜʜᴀɪʟ-ᴍᴅ",
-  ownername:process.env.OWNER_NAME|| "It'x Suhail",
+  botname : process.env.BOT_NAME  || "ABDULLAH",
+  ownername:process.env.OWNER_NAME|| "IT'Z AABHI",
 
-  sessionName:process.env.SESSION_ID || "",  // PUT SESSION ID HERE 
+  sessionName:process.env.SESSION_ID || "SUHAIL_22_03_10_01_ewogICJjcmVkcy5qc29uIjogIntcbiAgXCJub2lzZUtleVwiOiB7XG4gICAgXCJwcml2YXRlXCI6IHtcbiAgICAgIFwidHlwZVwiOiBcIkJ1ZmZlclwiLFxuICAgICAgXCJkYXRhXCI6IFtcbiAgICAgICAgMjQ4LFxuICAgICAgICAxNTIsXG4gICAgICAgIDg4LFxuICAgICAgICAxNjQsXG4gICAgICAgIDE3NixcbiAgICAgICAgMTM5LFxuICAgICAgICA1MSxcbiAgICAgICAgOTksXG4gICAgICAgIDEzMixcbiAgICAgICAgMTEwLFxuICAgICAgICAyMjgsXG4gICAgICAgIDIxNSxcbiAgICAgICAgNSxcbiAgICAgICAgMTM1LFxuICAgICAgICAxNzMsXG4gICAgICAgIDU5LFxuICAgICAgICAxMCxcbiAgICAgICAgOTYsXG4gICAgICAgIDExOCxcbiAgICAgICAgMjA0LFxuICAgICAgICAzNCxcbiAgICAgICAgODgsXG4gICAgICAgIDM3LFxuICAgICAgICAyMzYsXG4gICAgICAgIDgxLFxuICAgICAgICAxNTksXG4gICAgICAgIDE4MSxcbiAgICAgICAgOSxcbiAgICAgICAgMTQ5LFxuICAgICAgICAxNjAsXG4gICAgICAgIDIzMyxcbiAgICAgICAgOTBcbiAgICAgIF1cbiAgICB9LFxuICAgI",  // PUT SESSION ID HERE 
   errorChat : process.env.ERROR_CHAT || "",
   KOYEB_API : process.env.KOYEB_API  || "false",
 
